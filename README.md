@@ -1,6 +1,6 @@
 # [Fireship.io](https://fireship.io/)
 
-Content [designed](https://fireship.io/mission/) to increase developer happiness 😁 and productivity 🚀.
+Content [designed](https://fireship.io/mission/) to increase developer happiness 😊 and productivity 🚀.
 
 ## Project Tour
 
